@@ -1,7 +1,7 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
  <pyqgis_plugin name="buffer_batch" version="0.1.4">
-  <description>buffer_batch Plugin</description>
+  <description>buffer_batch</description>
   <about>buffer_batch</about>
   <version>0.1.4</version>
   <qgis_minimum_version>3.22</qgis_minimum_version>
