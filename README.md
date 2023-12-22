@@ -1,7 +1,7 @@
 # qgis_plugin_repository
 
 
-## QGIS 설치 방법
+## QGIS 플러그인 설치 방법
 
 ### 1. 저장소 방식
 ![image](https://github.com/MHJO/qgis_plugin_repository/assets/107253765/660f06cf-67bf-4c21-9faa-5f0863de7613)
