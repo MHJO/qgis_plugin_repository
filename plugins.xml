@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<plugins>
+ <pyqgis_plugin name="buffer_batch" version="0.1.4">
+  <description>buffer_batch Plugin</description>
+  <about>buffer_batch</about>
+  <version>0.1.4</version>
+  <qgis_minimum_version>3.22</qgis_minimum_version>
+  <homepage>https://github.com/MHJO/qgis_plugin_repository</homepage>
+  <file_name>buffer_batch-v0.1.4.zip</file_name>
+  <author_name>MH</author_name>
+  <download_url>https://github.com/MHJO/qgis_plugin_repository/releases/download/buffer_batch_plugin/buffer_batch-v0.1.4.zip</download_url>
+  <experimental>True</experimental>
+  <deprecated>False</deprecated>
+  <tags>buffer</tags>
+ </pyqgis_plugin>
+</plugins>
