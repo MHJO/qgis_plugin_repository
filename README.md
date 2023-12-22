@@ -11,7 +11,7 @@
    https://raw.githubusercontent.com/MHJO/qgis_plugin_repository/main/plugins.xml
 
 3. 확인 버튼을 누른 후 [모든 저장소 다시 불러오기] 버튼을 눌러 플러그인을 저장소를 Reload 한다.
-4. [installed] 으로 이동 후 검색 창에 원하는 플러그인의 이름을 검색하고 플러그인을 선택하고 [플러그인 설치]를 클릭하여 설치는 진행
+4. [All] 으로 이동 후 검색 창에 원하는 플러그인의 이름을 검색하고 플러그인을 선택하고 [플러그인 설치]를 클릭하여 설치는 진행
 5. QGIS 상단 플러그인 툴바에 추가된 것을 확인
 
 
